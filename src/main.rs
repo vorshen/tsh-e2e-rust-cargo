@@ -13,5 +13,5 @@ fn main() {
     .expect("fixture manifest should parse");
     assert_eq!(manifest.service, "tsh-e2e-rust");
     assert_eq!(manifest.attempts, 3);
-    println!("tsh-e2e-rust-ok");
+    println!("tsh-e2e-rust-cargo-ok");
 }

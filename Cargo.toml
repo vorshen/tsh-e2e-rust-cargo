@@ -1,5 +1,5 @@
 [package]
-name = "tsh-e2e-rust-hello"
+name = "tsh-e2e-rust-cargo"
 version = "0.1.0"
 edition = "2021"
 publish = false
